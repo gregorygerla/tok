@@ -3,6 +3,12 @@ git add file.txt
 git commit -m "d"
 git remote add origin https://gregorygerla/git.git
 
-git 
+git push -u origin master -- push remotely to github
 
 actually let's make another change
+
+
+
+git branch -- see all branches
+git branch newname
+git checkout newname
