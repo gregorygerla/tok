@@ -1,4 +1,6 @@
 git init
 git add file.txt
 git commit -m "d"
-git remote add origin https:add the file
+git remote add origin https://gregorygerla/git.git
+
+actually let's make another change
